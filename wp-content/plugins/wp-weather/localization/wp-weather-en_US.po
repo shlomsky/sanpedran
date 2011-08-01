@@ -1,0 +1,163 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP-Weather\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-11-16 18:45-0600\n"
+"PO-Revision-Date: \n"
+"Last-Translator: matt b <mattbta@gmail.com>\n"
+"Language-Team: Matt Brotherson <matt@x-sphere.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: wp-weather.php:264
+#: wp-weather.php:355
+msgid "Forecast for "
+msgstr "Forecast for "
+
+#: wp-weather.php:268
+#: wp-weather.php:359
+msgid "Currently: "
+msgstr "Currently: "
+
+#: wp-weather.php:270
+#: wp-weather.php:360
+msgid "Feels Like: "
+msgstr "Feels Like: "
+
+#: wp-weather.php:271
+#: wp-weather.php:293
+#: wp-weather.php:361
+#: wp-weather.php:395
+msgid "Hi: "
+msgstr "Hi: "
+
+#: wp-weather.php:272
+#: wp-weather.php:294
+#: wp-weather.php:362
+#: wp-weather.php:396
+msgid "Lo: "
+msgstr "Lo: "
+
+#: wp-weather.php:277
+#: wp-weather.php:367
+msgid "Tonight: "
+msgstr "Tonight: "
+
+#: wp-weather.php:278
+#: wp-weather.php:368
+msgid "Sunset: "
+msgstr "Sunset: "
+
+#: wp-weather.php:279
+#: wp-weather.php:369
+msgid "Moon Phase: "
+msgstr "Moon Phase: "
+
+#: wp-weather.php:303
+#: wp-weather.php:402
+msgid "weather feed courtesy of "
+msgstr "weather feed courtesy of "
+
+#: wp-weather.php:303
+#: wp-weather.php:403
+msgid "thanks"
+msgstr "thanks"
+
+#: wp-weather.php:411
+#: wp-weather.php:446
+msgid "WP-Weather Settings"
+msgstr "WP-Weather Settings"
+
+#: wp-weather.php:411
+msgid "WP-Weather"
+msgstr "WP-Weather"
+
+#: wp-weather.php:431
+msgid "Settings"
+msgstr "Settings"
+
+#: wp-weather.php:454
+msgid "This plugin gathers weather information from weather.com and displays it via a widget.  You must obtain a partner id and license key from weather.com to use this widget.  Sign up for Weather.com's free XML service at <a href=\"http://www.weather.com/services/xmloap.html\">Weather.com XML service</a>.  The data from weather.com is cached in the database for one half hour to avoid unnecessary calls to the web service."
+msgstr "This plugin gathers weather information from weather.com and displays it via a widget.  You must obtain a partner id and license key from weather.com to use this widget.  Sign up for Weather.com's free XML service at <a href=\"http://www.weather.com/services/xmloap.html\">Weather.com XML service</a>.  The data from weather.com is cached in the database for one half hour to avoid unnecessary calls to the web service."
+
+#: wp-weather.php:458
+msgid "Weather.com partner id"
+msgstr "Weather.com partner id"
+
+#: wp-weather.php:462
+msgid "Weather.com license key"
+msgstr "Weather.com license key"
+
+#: wp-weather.php:466
+msgid "Location id (zip code or city code)"
+msgstr "Location id (zip code or city code)"
+
+#: wp-weather.php:470
+msgid "Forecast length (in days)"
+msgstr "Forecast length (in days)"
+
+#: wp-weather.php:475
+msgid "Forecast unit type"
+msgstr "Forecast unit type"
+
+#: wp-weather.php:480
+msgid "Standard"
+msgstr "Standard"
+
+#: wp-weather.php:481
+msgid "Metric"
+msgstr "Metric"
+
+#: wp-weather.php:495
+msgid "Image size"
+msgstr "Image size"
+
+#: wp-weather.php:500
+msgid "32x32"
+msgstr "32x32"
+
+#: wp-weather.php:501
+msgid "64x64"
+msgstr "64x64"
+
+#: wp-weather.php:502
+msgid "128x128"
+msgstr "128x128"
+
+#: wp-weather.php:517
+#: wp-weather.php:520
+msgid "Miscellaneous"
+msgstr "Miscellaneous"
+
+#: wp-weather.php:522
+msgid "Use your own css (custom or theme)"
+msgstr "Use your own css (custom or theme)"
+
+#: wp-weather.php:523
+msgid "Show tonight's conditions"
+msgstr "Show tonight's conditions"
+
+#: wp-weather.php:531
+msgid "Save Changes"
+msgstr "Save Changes"
+
+#: wp-weather.php:580
+msgid "WP-Weather Widget"
+msgstr "WP-Weather Widget"
+
+#: wp-weather.php:582
+msgid "Weather"
+msgstr "Weather"
+
+#: wp-weather.php:617
+msgid "Local Weather"
+msgstr "Local Weather"
+
+#: wp-weather.php:622
+msgid "Title:"
+msgstr "Title:"
+

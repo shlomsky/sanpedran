@@ -1,0 +1,359 @@
+.mngl-user-grid-profile-image-wrap {
+  width: 50px;
+  height: 50px;
+  overflow: hidden;
+}
+
+.mngl-user-grid-profile-text {
+  font-size: 10px;
+  text-decoration: none;
+  line-height: 12px;
+  padding: 0px;
+  margin: 0px;
+}
+
+.mngl-user-grid {
+  border: 1px solid darkgray;
+}
+
+.mngl-user-grid-header {
+  background: lightgray;
+  font-size: 12px;
+  padding: 2px 0px 2px 5px !important;
+  margin: 0px 0px 3px 0px !important;
+}
+
+.mngl-alignleft {
+  float: left;
+}
+
+.mngl-alignright {
+  float: right;
+}
+
+.mngl-hidden {
+  display: none;
+  /*visibility: hidden;*/
+}
+
+.mngl-friend-list-header {
+  padding: 0px 0px 10px 0px;
+  margin: 0px 0px 5px 0px;
+  display: block;
+}
+
+.mngl-friend-list-profile-image-wrap {
+  display: block;
+  height: 75px;
+}
+
+.mngl-friend-list-profile-text {
+  display: block;
+  font-size: 18px;
+  font-weight: bold;
+  padding: 0px 0px 0px 85px;
+  margin: 0px;
+}
+
+.mngl-profile-image-wrap {
+  overflow: hidden !important;
+}
+
+.mngl-profile-image {
+  margin: 0px !important;
+  padding: 0px !important;
+  border: 0px !important;
+}
+
+.mngl-valign-top {
+  vertical-align: top;
+}
+
+.mngl-board-profile-image-wrap {
+  width: 48px;
+  height: 48px;
+  overflow: hidden;
+}
+
+.mngl-board-comment-profile-image-wrap {
+  width: 36px;
+  height: 36px;
+  overflow: hidden;
+}
+
+.mngl-post-form {
+  margin: 5px 0px 10px 0px;
+  background-color: lightgray;
+  border: 1px solid darkgray;
+  width: 100% !important;
+}
+
+.mngl-board-post-form tr {
+  border: 0px !important;
+}
+
+.mngl-board-post-form tr td {
+  border: 0px !important;
+}
+
+#mngl-fake-board-post-form {
+  padding: 5px 5px 5px 5px;
+}
+
+#mngl-board-post-form {
+  padding: 5px 7px 5px 5px;
+}
+
+.mngl-share-button {
+  padding: 5px 5px 5px 5px !important;
+  margin: 0px !important;
+  width: auto !important;
+  background-color: darkgray !important;
+  border: 1px solid #444444;
+  color: white !important;
+  font-weight: bold !important;
+  font-size: 14px !important;
+  cursor: pointer;
+}
+
+.mngl-share-button:hover {
+  background-color: lightgray !important;
+  color: #444444 !important;
+}
+
+.mngl-board-comments {
+  margin: 1px 0px 2px 0px !important;
+  padding: 5px !important;
+  background-color: lightgray;
+  width: 75%;
+  font-size: 12px;
+}
+
+.mngl-real-board-comment {
+  line-height: 14px;
+}
+
+.mngl-board-comment-list {
+  margin: 0px 0px 10px 57px;
+}
+
+.mngl-growable {
+  min-height: 48px !important;
+  max-height: 300px !important;
+  line-height: 16px !important;
+  border-color: darkgray;
+  font-size: 12px;
+}
+
+.mngl-board-input {
+  width: 100% !important;
+  margin: 0px 0px 0px 0px !important;
+  padding: 0px !important;
+  border: 1px solid darkgray !important;
+  background-color: white !important;
+}
+
+.mngl-board-fake-input {
+  border: 1px solid darkgray;
+  cursor: text;
+  font-size: 10px;
+  background-color: white;
+  color: darkgray;
+  padding: 0px 0px 0px 5px;
+}
+
+#mngl-fake-board-post-input {
+  font-size: 12px;
+}
+
+.mngl-board-post {
+  font-size: 12px;
+  line-height: 14px;
+  margin: 0px, 0px, 0px, 0px;
+  padding: 7px 0px 0px 0px;
+}
+
+.mngl-board-activity {
+  font-size: 12px;
+  padding: 7px 0px 7px 0px;
+  margin: 0px 0px 0px 57px;
+}
+
+.mngl-board-activity-image {
+  float: left;
+  padding: 0px 2px 0px 0px;
+  width: 16px;
+  height: 16px;
+}
+
+.mngl-comment-table {
+  width: 95%;
+}
+
+.mngl-comment-table tr td, .mngl-comment-table {
+  padding: 0px !important;
+  margin: 2px !important;
+  background-color: lightgray !important;
+}
+
+.mngl-comment-board-input {
+  margin: 0px 0px 0px 5px !important;
+  padding: 0px 0px 0px 0px !important;
+}
+
+.mngl-comment-table-col-2 {
+  width: 100% !important;
+}
+
+ul.friends-list {
+  list-style-type: none;
+}
+
+.mngl-friend-request-avatar-image-wrap {
+  width: 64px;
+  height: 64px;
+  overflow: hidden;
+}
+
+.mngl-friend-avatar-image-wrap {
+  width: 64px;
+  height: 64px;
+}
+
+.mngl-friend-list-profile-text {
+  padding: 0px 0px 0px 85px !important;
+  vertical-align: top !important;
+  margin: 0px !important;
+}
+
+.mngl-options-pane {
+  padding: 0px 0px 0px 15px;
+}
+
+.mngl-profile-body {
+  width: 100%;
+}
+
+.mngl-profile-table {
+  width: 100%;
+}
+
+.mngl-profile-table-col-1 {
+  width: 200px !important;
+}
+
+.mngl-profile-table-col-2 {
+  width: 100% !important;
+}
+
+.mngl-profile-table a {
+  text-decoration: none !important;
+}
+
+.mngl-profile-name {
+  font-size: 24px;
+  font-weight: bold;
+  display: block;
+}
+
+.mngl-profile-status {
+  text-decoration: bold;
+  padding-top: 5px;
+}
+
+
+.mngl-board-post-second-row {
+  font-size: 10px !important;
+}
+
+.mngl-time-ago {
+  font-style: italic;
+  color: gray;
+}
+
+.profile-header {
+  font-size: 18px;
+  text-decoration: bold;
+}
+
+.profile-avatar {
+  /*width: 200px;
+  height: 200px; */
+  padding: 0 10px 0 0;
+}
+
+.profile-edit-form {
+  text-align: left;
+  margin:0 0 25px !important;
+}
+
+.profile-edit-form .form_submit {
+  float: left;
+}
+
+.profile-edit-table tr td {
+  text-align: left;
+}
+
+.mngl-profile-edit-field {
+  width: 100% !important;
+}
+
+textarea..mngl-profile-edit-field {
+  height: 75px;
+}
+
+.mngl-status {
+  display: block;
+}
+
+.mngl-board-post-message {
+  padding: 0px 0px 0px 5px;
+  margin: 0px;
+}
+
+.mngl-directory-avatar-image-wrap {
+  width: 64px;
+  height: 64px;
+  overflow: hidden;
+}
+
+.mngl-profile-bio {
+  font-size: 10px;
+  padding: 5px !important;
+  width: 190px !important;
+  margin: 0px 0px 3px 0px !important;
+  border: 1px solid darkgray;
+}
+
+.mngl-profile-information {
+  font-size: 10px;
+  padding: 5px;
+  width: 190px;
+  border: 1px solid darkgray;
+  margin: 0px 0px 10px 0px;
+}
+
+.mngl-profile-field .mngl-profile-location .mngl-profile-sex .mngl-profile-url {
+  padding: 0px !important;
+  margin: 0px !important;
+}
+
+.mngl-profile-friend-grid-wrap {
+  width: 200px !important;
+}
+
+.mngl-profile-information p, .mngl-profile-bio p {
+  margin: 0px 0px 3px 0px !important;
+  padding: 0px !important;
+}
+
+.mngl-search-match {
+  background-color: lightgray;
+}
+
+.mngl-user-multiselect {
+  overflow: auto;
+  width: auto;
+  height: 150px !important;
+}

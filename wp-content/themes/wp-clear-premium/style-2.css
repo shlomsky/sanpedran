@@ -1,0 +1,13 @@
+/* -- This is the place to add your own style modifications without touching the original styles -- */
+
+body { }
+
+/* ---- If you want to change widget titles colors and home page category title colors, delete this line and change the colors below
+
+ul.home-right li.title h2, ul.home-left li.title h2, ul.home-bottom li.title h2, .widgettitle {
+	color:#fff;
+	background:#663333;
+	}
+
+You'll also need to delete this line after you change the colors above ---- */
+

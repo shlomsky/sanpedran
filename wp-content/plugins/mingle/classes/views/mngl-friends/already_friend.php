@@ -1,0 +1,1 @@
+<p class="friend-notice"><?php _e('Friend', 'mingle'); ?></p>

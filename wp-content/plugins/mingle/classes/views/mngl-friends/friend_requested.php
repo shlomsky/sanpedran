@@ -1,0 +1,1 @@
+<p class="friend-notice"><?php _e('Friendship Requested', 'mingle'); ?></p>

@@ -1,0 +1,1460 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2009 Shane Pearlman, Kelsey Damas, Produced by Shane & Peter Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# Kelsey Damas <kelsey.damas@gmail.com> 2009
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Simple Events 1.3\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/events\n"
+"POT-Creation-Date: 2009-07-24 15:57-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: events.php:419
+msgid "Events"
+msgstr ""
+
+#: events.php:980
+msgid "m.d.Y"
+msgstr ""
+
+#: events.php:1149
+msgid "A widget that displays the next upcoming x events."
+msgstr ""
+
+#: events.php:1252
+msgid "A calendar of your events"
+msgstr ""
+
+#: events.php:1253
+msgid "Events Calendar"
+msgstr ""
+
+#: events.php:1279 views/events-list-load-widget-admin.php:3
+msgid "Title:"
+msgstr ""
+
+#: views/events-list-load-widget-admin.php:8
+msgid "Show:"
+msgstr ""
+
+#: views/events-list-load-widget-admin.php:20
+msgid "Start Date & Time"
+msgstr ""
+
+#: views/events-list-load-widget-admin.php:21
+msgid "End Date & Time"
+msgstr ""
+
+#: views/events-list-load-widget-admin.php:22
+msgid "Venue"
+msgstr ""
+
+#: views/events-list-load-widget-admin.php:23
+msgid "Address"
+msgstr ""
+
+#: views/events-list-load-widget-admin.php:24
+msgid "City"
+msgstr ""
+
+#: views/events-list-load-widget-admin.php:25
+msgid "State (US)"
+msgstr ""
+
+#: views/events-list-load-widget-admin.php:26
+msgid "Province (Int)"
+msgstr ""
+
+#: views/events-list-load-widget-admin.php:27
+msgid "Postal Code"
+msgstr ""
+
+#: views/events-list-load-widget-admin.php:28
+msgid "Country"
+msgstr ""
+
+#: views/events-list-load-widget-admin.php:29
+msgid "Phone"
+msgstr ""
+
+#: views/events-list-load-widget-admin.php:30
+msgid "Price"
+msgstr ""
+
+#: views/events-meta-box.php:1
+msgid "Event Details:"
+msgstr ""
+
+#: views/events-meta-box.php:3
+msgid "Is this post an event?"
+msgstr ""
+
+#: views/events-meta-box.php:9
+msgid "Start Date / Time:"
+msgstr ""
+
+#: views/events-meta-box.php:19 views/events-meta-box.php:42
+msgid "@"
+msgstr ""
+
+#: views/events-meta-box.php:32
+msgid "End Date / Time:"
+msgstr ""
+
+#: views/events-meta-box.php:55
+msgid "Venue:"
+msgstr ""
+
+#: views/events-meta-box.php:59
+msgid "Country:"
+msgstr ""
+
+#: views/events-meta-box.php:62
+msgid "United States"
+msgstr ""
+
+#: views/events-meta-box.php:63
+msgid "Afghanistan"
+msgstr ""
+
+#: views/events-meta-box.php:64
+msgid "Albania"
+msgstr ""
+
+#: views/events-meta-box.php:65
+msgid "Algeria"
+msgstr ""
+
+#: views/events-meta-box.php:66
+msgid "American Samoa"
+msgstr ""
+
+#: views/events-meta-box.php:67
+msgid "Andorra"
+msgstr ""
+
+#: views/events-meta-box.php:68
+msgid "Angola"
+msgstr ""
+
+#: views/events-meta-box.php:69
+msgid "Anguilla"
+msgstr ""
+
+#: views/events-meta-box.php:70
+msgid "Antarctica"
+msgstr ""
+
+#: views/events-meta-box.php:71
+msgid "Antigua And Barbuda"
+msgstr ""
+
+#: views/events-meta-box.php:72
+msgid "Argentina"
+msgstr ""
+
+#: views/events-meta-box.php:73
+msgid "Armenia"
+msgstr ""
+
+#: views/events-meta-box.php:74
+msgid "Aruba"
+msgstr ""
+
+#: views/events-meta-box.php:75
+msgid "Australia"
+msgstr ""
+
+#: views/events-meta-box.php:76
+msgid "Austria"
+msgstr ""
+
+#: views/events-meta-box.php:77
+msgid "Azerbaijan"
+msgstr ""
+
+#: views/events-meta-box.php:78
+msgid "Bahamas"
+msgstr ""
+
+#: views/events-meta-box.php:79
+msgid "Bahrain"
+msgstr ""
+
+#: views/events-meta-box.php:80
+msgid "Bangladesh"
+msgstr ""
+
+#: views/events-meta-box.php:81
+msgid "Barbados"
+msgstr ""
+
+#: views/events-meta-box.php:82
+msgid "Belarus"
+msgstr ""
+
+#: views/events-meta-box.php:83
+msgid "Belgium"
+msgstr ""
+
+#: views/events-meta-box.php:84
+msgid "Belize"
+msgstr ""
+
+#: views/events-meta-box.php:85
+msgid "Benin"
+msgstr ""
+
+#: views/events-meta-box.php:86
+msgid "Bermuda"
+msgstr ""
+
+#: views/events-meta-box.php:87
+msgid "Bhutan"
+msgstr ""
+
+#: views/events-meta-box.php:88
+msgid "Bolivia"
+msgstr ""
+
+#: views/events-meta-box.php:89
+msgid "Bosnia And Herzegowina"
+msgstr ""
+
+#: views/events-meta-box.php:90
+msgid "Botswana"
+msgstr ""
+
+#: views/events-meta-box.php:91
+msgid "Bouvet Island"
+msgstr ""
+
+#: views/events-meta-box.php:92
+msgid "Brazil"
+msgstr ""
+
+#: views/events-meta-box.php:93
+msgid "British Indian Ocean Territory"
+msgstr ""
+
+#: views/events-meta-box.php:94
+msgid "Brunei Darussalam"
+msgstr ""
+
+#: views/events-meta-box.php:95
+msgid "Bulgaria"
+msgstr ""
+
+#: views/events-meta-box.php:96
+msgid "Burkina Faso"
+msgstr ""
+
+#: views/events-meta-box.php:97
+msgid "Burundi"
+msgstr ""
+
+#: views/events-meta-box.php:98
+msgid "Cambodia"
+msgstr ""
+
+#: views/events-meta-box.php:99
+msgid "Cameroon"
+msgstr ""
+
+#: views/events-meta-box.php:100
+msgid "Canada"
+msgstr ""
+
+#: views/events-meta-box.php:101
+msgid "Cape Verde"
+msgstr ""
+
+#: views/events-meta-box.php:102
+msgid "Cayman Islands"
+msgstr ""
+
+#: views/events-meta-box.php:103
+msgid "Central African Republic"
+msgstr ""
+
+#: views/events-meta-box.php:104
+msgid "Chad"
+msgstr ""
+
+#: views/events-meta-box.php:105
+msgid "Chile"
+msgstr ""
+
+#: views/events-meta-box.php:106
+msgid "China"
+msgstr ""
+
+#: views/events-meta-box.php:107
+msgid "Christmas Island"
+msgstr ""
+
+#: views/events-meta-box.php:108
+msgid "Cocos (Keeling) Islands"
+msgstr ""
+
+#: views/events-meta-box.php:109
+msgid "Colombia"
+msgstr ""
+
+#: views/events-meta-box.php:110
+msgid "Comoros"
+msgstr ""
+
+#: views/events-meta-box.php:111
+msgid "Congo"
+msgstr ""
+
+#: views/events-meta-box.php:112
+msgid "Congo, The Democratic Republic Of The"
+msgstr ""
+
+#: views/events-meta-box.php:113
+msgid "Cook Islands"
+msgstr ""
+
+#: views/events-meta-box.php:114
+msgid "Costa Rica"
+msgstr ""
+
+#: views/events-meta-box.php:115
+msgid "Cote D'Ivoire"
+msgstr ""
+
+#: views/events-meta-box.php:116
+msgid "Croatia (Local Name: Hrvatska)"
+msgstr ""
+
+#: views/events-meta-box.php:117
+msgid "Cuba"
+msgstr ""
+
+#: views/events-meta-box.php:118
+msgid "Cyprus"
+msgstr ""
+
+#: views/events-meta-box.php:119
+msgid "Czech Republic"
+msgstr ""
+
+#: views/events-meta-box.php:120
+msgid "Denmark"
+msgstr ""
+
+#: views/events-meta-box.php:121
+msgid "Djibouti"
+msgstr ""
+
+#: views/events-meta-box.php:122
+msgid "Dominica"
+msgstr ""
+
+#: views/events-meta-box.php:123
+msgid "Dominican Republic"
+msgstr ""
+
+#: views/events-meta-box.php:124
+msgid "East Timor"
+msgstr ""
+
+#: views/events-meta-box.php:125
+msgid "Ecuador"
+msgstr ""
+
+#: views/events-meta-box.php:126
+msgid "Egypt"
+msgstr ""
+
+#: views/events-meta-box.php:127
+msgid "El Salvador"
+msgstr ""
+
+#: views/events-meta-box.php:128
+msgid "Equatorial Guinea"
+msgstr ""
+
+#: views/events-meta-box.php:129
+msgid "Eritrea"
+msgstr ""
+
+#: views/events-meta-box.php:130
+msgid "Estonia"
+msgstr ""
+
+#: views/events-meta-box.php:131
+msgid "Ethiopia"
+msgstr ""
+
+#: views/events-meta-box.php:132
+msgid "Falkland Islands (Malvinas)"
+msgstr ""
+
+#: views/events-meta-box.php:133
+msgid "Faroe Islands"
+msgstr ""
+
+#: views/events-meta-box.php:134
+msgid "Fiji"
+msgstr ""
+
+#: views/events-meta-box.php:135
+msgid "Finland"
+msgstr ""
+
+#: views/events-meta-box.php:136
+msgid "France"
+msgstr ""
+
+#: views/events-meta-box.php:137
+msgid "France, Metropolitan"
+msgstr ""
+
+#: views/events-meta-box.php:138
+msgid "French Guiana"
+msgstr ""
+
+#: views/events-meta-box.php:139
+msgid "French Polynesia"
+msgstr ""
+
+#: views/events-meta-box.php:140
+msgid "French Southern Territories"
+msgstr ""
+
+#: views/events-meta-box.php:141
+msgid "Gabon"
+msgstr ""
+
+#: views/events-meta-box.php:142
+msgid "Gambia"
+msgstr ""
+
+#: views/events-meta-box.php:143 views/events-meta-box.php:335
+msgid "Georgia"
+msgstr ""
+
+#: views/events-meta-box.php:144
+msgid "Germany"
+msgstr ""
+
+#: views/events-meta-box.php:145
+msgid "Ghana"
+msgstr ""
+
+#: views/events-meta-box.php:146
+msgid "Gibraltar"
+msgstr ""
+
+#: views/events-meta-box.php:147
+msgid "Greece"
+msgstr ""
+
+#: views/events-meta-box.php:148
+msgid "Greenland"
+msgstr ""
+
+#: views/events-meta-box.php:149
+msgid "Grenada"
+msgstr ""
+
+#: views/events-meta-box.php:150
+msgid "Guadeloupe"
+msgstr ""
+
+#: views/events-meta-box.php:151
+msgid "Guam"
+msgstr ""
+
+#: views/events-meta-box.php:152
+msgid "Guatemala"
+msgstr ""
+
+#: views/events-meta-box.php:153
+msgid "Guinea"
+msgstr ""
+
+#: views/events-meta-box.php:154
+msgid "Guinea-Bissau"
+msgstr ""
+
+#: views/events-meta-box.php:155
+msgid "Guyana"
+msgstr ""
+
+#: views/events-meta-box.php:156
+msgid "Haiti"
+msgstr ""
+
+#: views/events-meta-box.php:157
+msgid "Heard And Mc Donald Islands"
+msgstr ""
+
+#: views/events-meta-box.php:158
+msgid "Holy See (Vatican City State)"
+msgstr ""
+
+#: views/events-meta-box.php:159
+msgid "Honduras"
+msgstr ""
+
+#: views/events-meta-box.php:160
+msgid "Hong Kong"
+msgstr ""
+
+#: views/events-meta-box.php:161
+msgid "Hungary"
+msgstr ""
+
+#: views/events-meta-box.php:162
+msgid "Iceland"
+msgstr ""
+
+#: views/events-meta-box.php:163
+msgid "India"
+msgstr ""
+
+#: views/events-meta-box.php:164
+msgid "Indonesia"
+msgstr ""
+
+#: views/events-meta-box.php:165
+msgid "Iran (Islamic Republic Of)"
+msgstr ""
+
+#: views/events-meta-box.php:166
+msgid "Iraq"
+msgstr ""
+
+#: views/events-meta-box.php:167
+msgid "Ireland"
+msgstr ""
+
+#: views/events-meta-box.php:168
+msgid "Israel"
+msgstr ""
+
+#: views/events-meta-box.php:169
+msgid "Italy"
+msgstr ""
+
+#: views/events-meta-box.php:170
+msgid "Jamaica"
+msgstr ""
+
+#: views/events-meta-box.php:171
+msgid "Japan"
+msgstr ""
+
+#: views/events-meta-box.php:172
+msgid "Jordan"
+msgstr ""
+
+#: views/events-meta-box.php:173
+msgid "Kazakhstan"
+msgstr ""
+
+#: views/events-meta-box.php:174
+msgid "Kenya"
+msgstr ""
+
+#: views/events-meta-box.php:175
+msgid "Kiribati"
+msgstr ""
+
+#: views/events-meta-box.php:176
+msgid "Korea, Democratic People's Republic Of"
+msgstr ""
+
+#: views/events-meta-box.php:177
+msgid "Korea, Republic Of"
+msgstr ""
+
+#: views/events-meta-box.php:178
+msgid "Kuwait"
+msgstr ""
+
+#: views/events-meta-box.php:179
+msgid "Kyrgyzstan"
+msgstr ""
+
+#: views/events-meta-box.php:180
+msgid "Lao People's Democratic Republic"
+msgstr ""
+
+#: views/events-meta-box.php:181
+msgid "Latvia"
+msgstr ""
+
+#: views/events-meta-box.php:182
+msgid "Lebanon"
+msgstr ""
+
+#: views/events-meta-box.php:183
+msgid "Lesotho"
+msgstr ""
+
+#: views/events-meta-box.php:184
+msgid "Liberia"
+msgstr ""
+
+#: views/events-meta-box.php:185
+msgid "Libyan Arab Jamahiriya"
+msgstr ""
+
+#: views/events-meta-box.php:186
+msgid "Liechtenstein"
+msgstr ""
+
+#: views/events-meta-box.php:187
+msgid "Lithuania"
+msgstr ""
+
+#: views/events-meta-box.php:188
+msgid "Luxembourg"
+msgstr ""
+
+#: views/events-meta-box.php:189
+msgid "Macau"
+msgstr ""
+
+#: views/events-meta-box.php:190
+msgid "Macedonia, Former Yugoslav Republic Of"
+msgstr ""
+
+#: views/events-meta-box.php:191
+msgid "Madagascar"
+msgstr ""
+
+#: views/events-meta-box.php:192
+msgid "Malawi"
+msgstr ""
+
+#: views/events-meta-box.php:193
+msgid "Malaysia"
+msgstr ""
+
+#: views/events-meta-box.php:194
+msgid "Maldives"
+msgstr ""
+
+#: views/events-meta-box.php:195
+msgid "Mali"
+msgstr ""
+
+#: views/events-meta-box.php:196
+msgid "Malta"
+msgstr ""
+
+#: views/events-meta-box.php:197
+msgid "Marshall Islands"
+msgstr ""
+
+#: views/events-meta-box.php:198
+msgid "Martinique"
+msgstr ""
+
+#: views/events-meta-box.php:199
+msgid "Mauritania"
+msgstr ""
+
+#: views/events-meta-box.php:200
+msgid "Mauritius"
+msgstr ""
+
+#: views/events-meta-box.php:201
+msgid "Mayotte"
+msgstr ""
+
+#: views/events-meta-box.php:202
+msgid "Mexico"
+msgstr ""
+
+#: views/events-meta-box.php:203
+msgid "Micronesia, Federated States Of"
+msgstr ""
+
+#: views/events-meta-box.php:204
+msgid "Moldova, Republic Of"
+msgstr ""
+
+#: views/events-meta-box.php:205
+msgid "Monaco"
+msgstr ""
+
+#: views/events-meta-box.php:206
+msgid "Mongolia"
+msgstr ""
+
+#: views/events-meta-box.php:207
+msgid "Montserrat"
+msgstr ""
+
+#: views/events-meta-box.php:208
+msgid "Morocco"
+msgstr ""
+
+#: views/events-meta-box.php:209
+msgid "Mozambique"
+msgstr ""
+
+#: views/events-meta-box.php:210
+msgid "Myanmar"
+msgstr ""
+
+#: views/events-meta-box.php:211
+msgid "Namibia"
+msgstr ""
+
+#: views/events-meta-box.php:212
+msgid "Nauru"
+msgstr ""
+
+#: views/events-meta-box.php:213
+msgid "Nepal"
+msgstr ""
+
+#: views/events-meta-box.php:214
+msgid "Netherlands"
+msgstr ""
+
+#: views/events-meta-box.php:215
+msgid "Netherlands Antilles"
+msgstr ""
+
+#: views/events-meta-box.php:216
+msgid "New Caledonia"
+msgstr ""
+
+#: views/events-meta-box.php:217
+msgid "New Zealand"
+msgstr ""
+
+#: views/events-meta-box.php:218
+msgid "Nicaragua"
+msgstr ""
+
+#: views/events-meta-box.php:219
+msgid "Niger"
+msgstr ""
+
+#: views/events-meta-box.php:220
+msgid "Nigeria"
+msgstr ""
+
+#: views/events-meta-box.php:221
+msgid "Niue"
+msgstr ""
+
+#: views/events-meta-box.php:222
+msgid "Norfolk Island"
+msgstr ""
+
+#: views/events-meta-box.php:223
+msgid "Northern Mariana Islands"
+msgstr ""
+
+#: views/events-meta-box.php:224
+msgid "Norway"
+msgstr ""
+
+#: views/events-meta-box.php:225
+msgid "Oman"
+msgstr ""
+
+#: views/events-meta-box.php:226
+msgid "Pakistan"
+msgstr ""
+
+#: views/events-meta-box.php:227
+msgid "Palau"
+msgstr ""
+
+#: views/events-meta-box.php:228
+msgid "Panama"
+msgstr ""
+
+#: views/events-meta-box.php:229
+msgid "Papua New Guinea"
+msgstr ""
+
+#: views/events-meta-box.php:230
+msgid "Paraguay"
+msgstr ""
+
+#: views/events-meta-box.php:231
+msgid "Peru"
+msgstr ""
+
+#: views/events-meta-box.php:232
+msgid "Philippines"
+msgstr ""
+
+#: views/events-meta-box.php:233
+msgid "Pitcairn"
+msgstr ""
+
+#: views/events-meta-box.php:234
+msgid "Poland"
+msgstr ""
+
+#: views/events-meta-box.php:235
+msgid "Portugal"
+msgstr ""
+
+#: views/events-meta-box.php:236
+msgid "Puerto Rico"
+msgstr ""
+
+#: views/events-meta-box.php:237
+msgid "Qatar"
+msgstr ""
+
+#: views/events-meta-box.php:238
+msgid "Reunion"
+msgstr ""
+
+#: views/events-meta-box.php:239
+msgid "Romania"
+msgstr ""
+
+#: views/events-meta-box.php:240
+msgid "Russian Federation"
+msgstr ""
+
+#: views/events-meta-box.php:241
+msgid "Rwanda"
+msgstr ""
+
+#: views/events-meta-box.php:242
+msgid "Saint Kitts And Nevis"
+msgstr ""
+
+#: views/events-meta-box.php:243
+msgid "Saint Lucia"
+msgstr ""
+
+#: views/events-meta-box.php:244
+msgid "Saint Vincent And The Grenadines"
+msgstr ""
+
+#: views/events-meta-box.php:245
+msgid "Samoa"
+msgstr ""
+
+#: views/events-meta-box.php:246
+msgid "San Marino"
+msgstr ""
+
+#: views/events-meta-box.php:247
+msgid "Sao Tome And Principe"
+msgstr ""
+
+#: views/events-meta-box.php:248
+msgid "Saudi Arabia"
+msgstr ""
+
+#: views/events-meta-box.php:249
+msgid "Senegal"
+msgstr ""
+
+#: views/events-meta-box.php:250
+msgid "Seychelles"
+msgstr ""
+
+#: views/events-meta-box.php:251
+msgid "Sierra Leone"
+msgstr ""
+
+#: views/events-meta-box.php:252
+msgid "Singapore"
+msgstr ""
+
+#: views/events-meta-box.php:253
+msgid "Slovakia (Slovak Republic)"
+msgstr ""
+
+#: views/events-meta-box.php:254
+msgid "Slovenia"
+msgstr ""
+
+#: views/events-meta-box.php:255
+msgid "Solomon Islands"
+msgstr ""
+
+#: views/events-meta-box.php:256
+msgid "Somalia"
+msgstr ""
+
+#: views/events-meta-box.php:257
+msgid "South Africa"
+msgstr ""
+
+#: views/events-meta-box.php:258
+msgid "South Georgia, South Sandwich Islands"
+msgstr ""
+
+#: views/events-meta-box.php:259
+msgid "Spain"
+msgstr ""
+
+#: views/events-meta-box.php:260
+msgid "Sri Lanka"
+msgstr ""
+
+#: views/events-meta-box.php:261
+msgid "St. Helena"
+msgstr ""
+
+#: views/events-meta-box.php:262
+msgid "St. Pierre And Miquelon"
+msgstr ""
+
+#: views/events-meta-box.php:263
+msgid "Sudan"
+msgstr ""
+
+#: views/events-meta-box.php:264
+msgid "Suriname"
+msgstr ""
+
+#: views/events-meta-box.php:265
+msgid "Svalbard And Jan Mayen Islands"
+msgstr ""
+
+#: views/events-meta-box.php:266
+msgid "Swaziland"
+msgstr ""
+
+#: views/events-meta-box.php:267
+msgid "Sweden"
+msgstr ""
+
+#: views/events-meta-box.php:268
+msgid "Switzerland"
+msgstr ""
+
+#: views/events-meta-box.php:269
+msgid "Syrian Arab Republic"
+msgstr ""
+
+#: views/events-meta-box.php:270
+msgid "Taiwan"
+msgstr ""
+
+#: views/events-meta-box.php:271
+msgid "Tajikistan"
+msgstr ""
+
+#: views/events-meta-box.php:272
+msgid "Tanzania, United Republic Of"
+msgstr ""
+
+#: views/events-meta-box.php:273
+msgid "Thailand"
+msgstr ""
+
+#: views/events-meta-box.php:274
+msgid "Togo"
+msgstr ""
+
+#: views/events-meta-box.php:275
+msgid "Tokelau"
+msgstr ""
+
+#: views/events-meta-box.php:276
+msgid "Tonga"
+msgstr ""
+
+#: views/events-meta-box.php:277
+msgid "Trinidad And Tobago"
+msgstr ""
+
+#: views/events-meta-box.php:278
+msgid "Tunisia"
+msgstr ""
+
+#: views/events-meta-box.php:279
+msgid "Turkey"
+msgstr ""
+
+#: views/events-meta-box.php:280
+msgid "Turkmenistan"
+msgstr ""
+
+#: views/events-meta-box.php:281
+msgid "Turks And Caicos Islands"
+msgstr ""
+
+#: views/events-meta-box.php:282
+msgid "Tuvalu"
+msgstr ""
+
+#: views/events-meta-box.php:283
+msgid "Uganda"
+msgstr ""
+
+#: views/events-meta-box.php:284
+msgid "Ukraine"
+msgstr ""
+
+#: views/events-meta-box.php:285
+msgid "United Arab Emirates"
+msgstr ""
+
+#: views/events-meta-box.php:286
+msgid "United Kingdom"
+msgstr ""
+
+#: views/events-meta-box.php:287
+msgid "United States Minor Outlying Islands"
+msgstr ""
+
+#: views/events-meta-box.php:288
+msgid "Uruguay"
+msgstr ""
+
+#: views/events-meta-box.php:289
+msgid "Uzbekistan"
+msgstr ""
+
+#: views/events-meta-box.php:290
+msgid "Vanuatu"
+msgstr ""
+
+#: views/events-meta-box.php:291
+msgid "Venezuela"
+msgstr ""
+
+#: views/events-meta-box.php:292
+msgid "Viet Nam"
+msgstr ""
+
+#: views/events-meta-box.php:293
+msgid "Virgin Islands (British)"
+msgstr ""
+
+#: views/events-meta-box.php:294
+msgid "Virgin Islands (U.S.)"
+msgstr ""
+
+#: views/events-meta-box.php:295
+msgid "Wallis And Futuna Islands"
+msgstr ""
+
+#: views/events-meta-box.php:296
+msgid "Western Sahara"
+msgstr ""
+
+#: views/events-meta-box.php:297
+msgid "Yemen"
+msgstr ""
+
+#: views/events-meta-box.php:298
+msgid "Yugoslavia"
+msgstr ""
+
+#: views/events-meta-box.php:299
+msgid "Zambia"
+msgstr ""
+
+#: views/events-meta-box.php:300
+msgid "Zimbabwe"
+msgstr ""
+
+#: views/events-meta-box.php:316
+msgid "Address:"
+msgstr ""
+
+#: views/events-meta-box.php:317
+msgid "City:"
+msgstr ""
+
+#: views/events-meta-box.php:319
+msgid "Province:"
+msgstr ""
+
+#: views/events-meta-box.php:322
+msgid "State:"
+msgstr ""
+
+#: views/events-meta-box.php:323
+msgid "Select a State:"
+msgstr ""
+
+#: views/events-meta-box.php:325
+msgid "Alabama"
+msgstr ""
+
+#: views/events-meta-box.php:326
+msgid "Alaska"
+msgstr ""
+
+#: views/events-meta-box.php:327
+msgid "Arizona"
+msgstr ""
+
+#: views/events-meta-box.php:328
+msgid "Arkansas"
+msgstr ""
+
+#: views/events-meta-box.php:329
+msgid "California"
+msgstr ""
+
+#: views/events-meta-box.php:330
+msgid "Colorado"
+msgstr ""
+
+#: views/events-meta-box.php:331
+msgid "Connecticut"
+msgstr ""
+
+#: views/events-meta-box.php:332
+msgid "Delaware"
+msgstr ""
+
+#: views/events-meta-box.php:333
+msgid "District of Columbia"
+msgstr ""
+
+#: views/events-meta-box.php:334
+msgid "Florida"
+msgstr ""
+
+#: views/events-meta-box.php:336
+msgid "Hawaii"
+msgstr ""
+
+#: views/events-meta-box.php:337
+msgid "Idaho"
+msgstr ""
+
+#: views/events-meta-box.php:338
+msgid "Illinois"
+msgstr ""
+
+#: views/events-meta-box.php:339
+msgid "Indiana"
+msgstr ""
+
+#: views/events-meta-box.php:340
+msgid "Iowa"
+msgstr ""
+
+#: views/events-meta-box.php:341
+msgid "Kansas"
+msgstr ""
+
+#: views/events-meta-box.php:342
+msgid "Kentucky"
+msgstr ""
+
+#: views/events-meta-box.php:343
+msgid "Louisiana"
+msgstr ""
+
+#: views/events-meta-box.php:344
+msgid "Maine"
+msgstr ""
+
+#: views/events-meta-box.php:345
+msgid "Maryland"
+msgstr ""
+
+#: views/events-meta-box.php:346
+msgid "Massachusetts"
+msgstr ""
+
+#: views/events-meta-box.php:347
+msgid "Michigan"
+msgstr ""
+
+#: views/events-meta-box.php:348
+msgid "Minnesota"
+msgstr ""
+
+#: views/events-meta-box.php:349
+msgid "Mississippi"
+msgstr ""
+
+#: views/events-meta-box.php:350
+msgid "Missouri"
+msgstr ""
+
+#: views/events-meta-box.php:351
+msgid "Montana"
+msgstr ""
+
+#: views/events-meta-box.php:352
+msgid "Nebraska"
+msgstr ""
+
+#: views/events-meta-box.php:353
+msgid "Nevada"
+msgstr ""
+
+#: views/events-meta-box.php:354
+msgid "New Hampshire"
+msgstr ""
+
+#: views/events-meta-box.php:355
+msgid "New Jersey"
+msgstr ""
+
+#: views/events-meta-box.php:356
+msgid "New Mexico"
+msgstr ""
+
+#: views/events-meta-box.php:357
+msgid "New York"
+msgstr ""
+
+#: views/events-meta-box.php:358
+msgid "North Carolina"
+msgstr ""
+
+#: views/events-meta-box.php:359
+msgid "North Dakota"
+msgstr ""
+
+#: views/events-meta-box.php:360
+msgid "Ohio"
+msgstr ""
+
+#: views/events-meta-box.php:361
+msgid "Oklahoma"
+msgstr ""
+
+#: views/events-meta-box.php:362
+msgid "Oregon"
+msgstr ""
+
+#: views/events-meta-box.php:363
+msgid "Pennsylvania"
+msgstr ""
+
+#: views/events-meta-box.php:364
+msgid "Rhode Island"
+msgstr ""
+
+#: views/events-meta-box.php:365
+msgid "South Carolina"
+msgstr ""
+
+#: views/events-meta-box.php:366
+msgid "South Dakota"
+msgstr ""
+
+#: views/events-meta-box.php:367
+msgid "Tennessee"
+msgstr ""
+
+#: views/events-meta-box.php:368
+msgid "Texas"
+msgstr ""
+
+#: views/events-meta-box.php:369
+msgid "Utah"
+msgstr ""
+
+#: views/events-meta-box.php:370
+msgid "Vermont"
+msgstr ""
+
+#: views/events-meta-box.php:371
+msgid "Virginia"
+msgstr ""
+
+#: views/events-meta-box.php:372
+msgid "Washington"
+msgstr ""
+
+#: views/events-meta-box.php:373
+msgid "West Virginia"
+msgstr ""
+
+#: views/events-meta-box.php:374
+msgid "Wisconsin"
+msgstr ""
+
+#: views/events-meta-box.php:375
+msgid "Wyoming"
+msgstr ""
+
+#: views/events-meta-box.php:387
+msgid "Postal Code:"
+msgstr ""
+
+#: views/events-meta-box.php:393
+msgid "Cost:"
+msgstr ""
+
+#: views/events-meta-box.php:397
+msgid "Phone:"
+msgstr ""
+
+#: views/events-meta-box.php:401
+msgid "Event Design:"
+msgstr ""
+
+#: views/events-meta-box.php:407
+msgid "Event Brite Ticketing:"
+msgstr ""
+
+#: views/events-meta-box.php:410
+msgid "Need registration or to sell tickets?"
+msgstr ""
+
+#: views/events-meta-box.php:412
+msgid "Step 1: Enter Your Event Brite Account"
+msgstr ""
+
+#: views/events-meta-box.php:413 views/events-meta-box.php:423
+msgid "Don't have one?"
+msgstr ""
+
+#: views/events-meta-box.php:415 views/events-meta-box.php:466
+msgid "EB User:"
+msgstr ""
+
+#: views/events-meta-box.php:419 views/events-meta-box.php:469
+msgid "EB Password:"
+msgstr ""
+
+#: views/events-meta-box.php:422
+msgid "Step 2: Setup up your first ticket"
+msgstr ""
+
+#: views/events-meta-box.php:426
+msgid "Name:"
+msgstr ""
+
+#: views/events-meta-box.php:430
+msgid "Description:"
+msgstr ""
+
+#: views/events-meta-box.php:434
+msgid "Type:"
+msgstr ""
+
+#: views/events-meta-box.php:440
+msgid "Price:"
+msgstr ""
+
+#: views/events-meta-box.php:444
+msgid "Quantity:"
+msgstr ""
+
+#: views/events-meta-box.php:448
+msgid "Include Fee in Price:"
+msgstr ""
+
+#: views/events-meta-box.php:454
+msgid "Step 3: Create the Event with EventBrite.com"
+msgstr ""
+
+#: views/events-meta-box.php:455
+msgid ""
+"We can create the basic event for you. For more advanced controls and event "
+"details you will need to manage the event from the eventbrite administration "
+"system. Make sure the event dails are completely filled out."
+msgstr ""
+
+#: views/events-meta-box.php:457
+msgid "Create an Event using the information above button goes here."
+msgstr ""
+
+#: views/events-meta-box.php:463
+msgid "Event ID:"
+msgstr ""
+
+#: views/events-meta-box.php:480
+msgid "Ticket Count:"
+msgstr ""
+
+#: views/gridview.php:11
+msgid "Monday"
+msgstr ""
+
+#: views/gridview.php:11
+msgid "Mon"
+msgstr ""
+
+#: views/gridview.php:12
+msgid "Tuesday"
+msgstr ""
+
+#: views/gridview.php:12
+msgid "Tue"
+msgstr ""
+
+#: views/gridview.php:13
+msgid "Wednesday"
+msgstr ""
+
+#: views/gridview.php:13
+msgid "Wed"
+msgstr ""
+
+#: views/gridview.php:14
+msgid "Thursday"
+msgstr ""
+
+#: views/gridview.php:14
+msgid "Thu"
+msgstr ""
+
+#: views/gridview.php:15
+msgid "Friday"
+msgstr ""
+
+#: views/gridview.php:15
+msgid "Fri"
+msgstr ""
+
+#: views/gridview.php:16
+msgid "Saturday"
+msgstr ""
+
+#: views/gridview.php:16
+msgid "Sat"
+msgstr ""
+
+#: views/gridview.php:17
+msgid "Sunday"
+msgstr ""
+
+#: views/gridview.php:17
+msgid "Sun"
+msgstr ""
+
+#. Plugin Name of an extension
+msgid "Simple Events"
+msgstr ""
+
+#. Plugin URI of an extension
+msgid "http://www.shaneandpeter.com/wordpress"
+msgstr ""
+
+#. Description of an extension
+msgid "Rapidy create and manage events using posts."
+msgstr ""
+
+#. Author of an extension
+msgid "Shane Pearlman, Kelsey Damas, Produced by Shane & Peter Inc."
+msgstr ""
+
+#. Author URI of an extension
+msgid "http://www.shaneandpeter.com"
+msgstr ""

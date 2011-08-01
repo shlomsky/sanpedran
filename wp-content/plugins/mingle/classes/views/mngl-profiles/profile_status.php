@@ -1,0 +1,1 @@
+<div class="mngl-profile-status"><?php MnglBoardsHelper::display_message( 'mngl-profile-status-message', $user->get_status() ); ?> <span class="mngl-time-ago mngl-board-post-second-row"><?php echo $mngl_app_helper->time_ago($user->get_status_time_ts()); ?></span></div>

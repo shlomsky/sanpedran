@@ -1,0 +1,786 @@
+# Mingle Polish/pl_PL Translations
+# Copyright (C) 2009 Blair Williams
+# This file is distributed under the same license as the Mingle package.
+# Jacek Dudzic <jacek@icpe.pl>, 2009.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Mingle 0.0.10\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/mingle\n"
+"POT-Creation-Date: 2009-11-24 13:03-0500\n"
+"PO-Revision-Date: 2009-12-16 11:11+0100\n"
+"Last-Translator: Jacek Dudzic <jacek@icpe.pl>\n"
+"Language-Team: Polski <jacek@icpe.pl>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: Polish\n"
+"X-Poedit-Country: POLAND\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;_c\n"
+"X-Poedit-Basepath: .\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: classes/controllers/MnglBoardsController.php:13
+#, php-format
+msgid "%1$s posted to %2$s's board"
+msgstr "%1$s opublikował na forum użytkownika  %2$s"
+
+#: classes/controllers/MnglBoardsController.php:16
+#, php-format
+msgid "%1$s commented on %2$s's post"
+msgstr "%1$s skomentował wpis użytkownika %2$s"
+
+#: classes/controllers/MnglFriendsController.php:14
+#, php-format
+msgid "%1$s is now friends with %2$s"
+msgstr "%1$s jest teraz znajomym użytkownika %2$s"
+
+#: classes/controllers/MnglHelpController.php:20
+#, php-format
+msgid "Mingle must be configured. Go to the %1$sadmin page%2$s to setup your new social network!"
+msgstr "Wtyczka Mingle musi zostać skonfigurowana. Idź do %1$sstrony administracyjnej%2$s, aby utworzyć swój serwis społecznościowy!"
+
+#. #-#-#-#-#  mingle.pot (Mingle 0.0.09)  #-#-#-#-#
+#. Plugin Name of an extension
+#: classes/controllers/MnglOptionsController.php:13
+msgid "Mingle"
+msgstr "Mingle"
+
+#: classes/controllers/MnglProfilesController.php:13
+#, php-format
+msgid "%1$s updated %2$s profile"
+msgstr "%1$s zaktualizował %2$s profil"
+
+#: classes/helpers/MnglAppHelper.php:43
+#, php-format
+msgid "%d second ago"
+msgid_plural "%d seconds ago"
+msgstr[0] "%d sekundę temu"
+msgstr[1] "%d sekund temu"
+
+#: classes/helpers/MnglAppHelper.php:49
+#, php-format
+msgid "%d minute ago"
+msgid_plural "%d minutes ago"
+msgstr[0] "%d minutę temu"
+msgstr[1] "%d minut temu"
+
+#: classes/helpers/MnglAppHelper.php:55
+#, php-format
+msgid "%d hour ago"
+msgid_plural "%d hours ago"
+msgstr[0] "%d godzinę temu"
+msgstr[1] "%d godzin temu"
+
+#: classes/helpers/MnglAppHelper.php:61
+#, php-format
+msgid "yesterday"
+msgid_plural "%d days ago"
+msgstr[0] "wczoraj"
+msgstr[1] "%d dni temu"
+
+#: classes/helpers/MnglAppHelper.php:67
+#, php-format
+msgid "last week"
+msgid_plural "%d weeks ago"
+msgstr[0] "w zeszłym tygodniu"
+msgstr[1] "%d tygodni temu"
+
+#: classes/helpers/MnglAppHelper.php:73
+#, php-format
+msgid "last month"
+msgid_plural "%d months ago"
+msgstr[0] "w zeszłym miesiącu"
+msgstr[1] "%d miesięcy temu"
+
+#: classes/helpers/MnglAppHelper.php:79
+#, php-format
+msgid "last year"
+msgid_plural "%d years ago"
+msgstr[0] "w zeszłym roku"
+msgstr[1] "%d lat temu"
+
+#: classes/helpers/MnglAppHelper.php:113
+#, php-format
+msgid "Powered by %1$sMingle%2$s"
+msgstr "Powered by %1$sMingle%2$s"
+
+#: classes/helpers/MnglBoardsHelper.php:17
+msgid "Read More"
+msgstr "Czytaj więcej"
+
+#: classes/helpers/MnglOptionsHelper.php:29
+msgid "Full Name"
+msgstr "Pełne imię i nazwisko"
+
+#: classes/helpers/MnglOptionsHelper.php:30
+msgid "Screen Name"
+msgstr "Nazwa użytkownika"
+
+#: classes/helpers/MnglOptionsHelper.php:39
+msgid "Public"
+msgstr "Publiczny"
+
+#: classes/helpers/MnglOptionsHelper.php:40
+msgid "Private"
+msgstr "Prywatny"
+
+#: classes/helpers/MnglOptionsHelper.php:41
+msgid "Hidden"
+msgstr "Ukryty"
+
+#: classes/helpers/MnglProfileHelper.php:10
+msgid "Female"
+msgstr "Żeńska"
+
+#: classes/helpers/MnglProfileHelper.php:11
+msgid "Male"
+msgstr "Męska"
+
+#: classes/helpers/MnglProfileHelper.php:20
+msgid "I Want My Profile to Only Be Visible To Me and My Friends"
+msgstr "Chcę, aby mój Profil był widoczny tylko dla mnie i dla moich znajomych"
+
+#: classes/helpers/MnglProfileHelper.php:21
+msgid "I Want My Profile to Be Visible To The World"
+msgstr "Chcę, aby mój Profil był widoczny dla wszystkich"
+
+#: classes/models/MnglNotification.php:12
+msgid "Sent when someone requests you as a friend"
+msgstr "wysłane, gdy ktoś chce dodać mnie jaki znajomego"
+
+#: classes/models/MnglNotification.php:14
+msgid "Sent when a friendship has been confirmed"
+msgstr "wysłane, gdy dodanie znajomego zostało potwierdzone"
+
+#: classes/models/MnglNotification.php:16
+msgid "Sent when someone posts to your Board"
+msgstr "wysłane, gdy ktoś opublikuje coś na twojej stronie"
+
+#: classes/models/MnglNotification.php:18
+msgid "Sent when someone posts to one of your Board Posts or on a comment thread that you've participated in"
+msgstr "wysłane, gdy ktoś odpowie na jeden z twoich wpisów lub skomentuje wątek, w którym uczestniczysz"
+
+#: classes/models/MnglNotification.php:33
+#, php-format
+msgid "%1$s has requested you as a friend on %2$s!"
+msgstr "%1$s poprosił o dodanie jako znajomego na %2$s!"
+
+#: classes/models/MnglNotification.php:34
+#, php-format
+msgid "Please visit %s to Accept or Ignore this request."
+msgstr "Odwiedź %s, aby zaakceptować lub odrzucić tę prośbę."
+
+#: classes/models/MnglNotification.php:41
+#, php-format
+msgid "%1$s wants to be your Friend on %2$s"
+msgstr "%1$s chce być twoim znajomym na %2$s"
+
+#: classes/models/MnglNotification.php:59
+#: classes/models/MnglNotification.php:72
+#, php-format
+msgid "You're now friends with %1$s on %2$s!"
+msgstr "Jesteś teraz znajomym użytkownika %1$s na %2$s!"
+
+#: classes/models/MnglNotification.php:60
+#, php-format
+msgid "Visit %1$s to see %2$s profile."
+msgstr "Odwiedź %1$s aby obejrzeć profil użytkownika %2$s."
+
+#: classes/models/MnglNotification.php:68
+#, php-format
+msgid "%1$s Has Confirmed Your Friend Request on %2$s"
+msgstr "%1$s zaakaceptował twoją prósbę na %2$s"
+
+#: classes/models/MnglNotification.php:73
+#, php-format
+msgid "Visit %s to see %s profile."
+msgstr "Odwiedź %s aby obejrzeć profil %s."
+
+#: classes/models/MnglNotification.php:81
+#, php-format
+msgid "You're Now Friends With %1$s on %2$s"
+msgstr "Jesteś teraz znajomym użytkownika  %1$s na %2$s"
+
+#: classes/models/MnglNotification.php:99
+#, php-format
+msgid "%1$s posted this on your Board at %2$s"
+msgstr "%1$s opublikował to na twoim forum na %2$s"
+
+#: classes/models/MnglNotification.php:100
+#, php-format
+msgid "Visit %s to see your Board"
+msgstr "Odwiedź %s, aby obejrzeć swoje forum"
+
+#: classes/models/MnglNotification.php:108
+#, php-format
+msgid "%1$s Posted to Your Board on %2$s"
+msgstr "%1$s wpisał się na Twoje forum na %2$s"
+
+#: classes/models/MnglNotification.php:140
+#, php-format
+msgid "%1$s commented on your Board Post on %2$s"
+msgstr "%1$s skomentował twój wpis na %2$s"
+
+#: classes/models/MnglNotification.php:141
+#, php-format
+msgid "Visit %1$s's Profile at %2$s to see this comment."
+msgstr "Odwiedź profil użytkownika %1$s na %2$s, aby zobaczyć ten komentarz."
+
+#: classes/models/MnglNotification.php:150
+#, php-format
+msgid "%1$s commented on a Post on your Board on %2$s"
+msgstr "%1$s skomentował wpis na Twojej stronie na %2$s"
+
+#: classes/models/MnglNotification.php:156
+#, php-format
+msgid "%1$s commented on %2$s's Board Post"
+msgstr "%1$s skomentował wpis na %2$s"
+
+#: classes/models/MnglNotification.php:166
+#, php-format
+msgid "%1$s commented on %2$s's Board Post on %3$s"
+msgstr "%1$s skomentował wpis użytkownika %2$s na %3$s"
+
+#: classes/models/MnglNotification.php:209
+msgid "Thanks!"
+msgstr "Dzięki!"
+
+#: classes/models/MnglNotification.php:210
+#, php-format
+msgid "%s Team"
+msgstr "%s Team"
+
+#: classes/models/MnglNotification.php:211
+#, php-format
+msgid "If you want to stop future emails like this from coming to you, please modify your notification settings at %1$s or contact the system administrator at %2$s."
+msgstr "Jeśli nie chcesz w przyszłości otrzymywać takich maili, zmodyfikuj ustawienia powiadomień w %1$s lub skontaktuj się z administratorem %2$s."
+
+#: classes/models/MnglOptions.php:132
+msgid "The Profile Page Must Not Be Blank."
+msgstr "Strona Profil nie może być pusta."
+
+#: classes/models/MnglOptions.php:135
+msgid "The Profile Edit Page Must Not Be Blank."
+msgstr "Strona Edycji Profilu nie może być pusta."
+
+#: classes/models/MnglOptions.php:138
+msgid "The Friends Page Must Not Be Blank."
+msgstr "Strona Znajomych nie może być pusta."
+
+#: classes/models/MnglOptions.php:141
+msgid "The Friend Request Page Must Not Be Blank."
+msgstr "Strona Szukaj Znajomych nie może być pusta."
+
+#: classes/models/MnglOptions.php:144
+msgid "The Activity Page Must Not Be Blank."
+msgstr "Strona Aktywności nie może być pusta."
+
+#: classes/models/MnglUser.php:161
+#: classes/models/MnglUser.php:162
+msgid "Her"
+msgstr "Jej"
+
+#: classes/models/MnglUser.php:163
+msgid "She"
+msgstr "Ona"
+
+#: classes/models/MnglUser.php:167
+msgid "His"
+msgstr "Jego"
+
+#: classes/models/MnglUser.php:168
+msgid "Him"
+msgstr "Jemu"
+
+#: classes/models/MnglUser.php:169
+msgid "He"
+msgstr "On"
+
+#: classes/models/MnglUser.php:173
+msgid "His/Her"
+msgstr "Jego/Jej"
+
+#: classes/models/MnglUser.php:174
+msgid "Him/Her"
+msgstr "Jemu/Jej"
+
+#: classes/models/MnglUser.php:175
+msgid "He/She"
+msgstr "On/Ona"
+
+#: classes/models/MnglUser.php:185
+msgid "Password Must Match Password Confirmation."
+msgstr "Hasło musi zgadzać się z potwierdzenie hasła."
+
+#: classes/views/mngl-boards/comment_form.php:15
+#: classes/views/mngl-boards/display.php:48
+#: classes/views/mngl-boards/display.php:88
+msgid "Comment"
+msgstr "Skomentuj"
+
+#: classes/views/mngl-boards/display.php:10
+msgid "What's on your mind?"
+msgstr "Co robisz?"
+
+#: classes/views/mngl-boards/display.php:21
+msgid "Share"
+msgstr "Podziel się"
+
+#: classes/views/mngl-boards/display.php:52
+#: classes/views/mngl-boards/display.php:92
+#: classes/views/mngl-boards/display.php:127
+#: classes/views/mngl-friends/list.php:31
+msgid "Delete"
+msgstr "Usuń"
+
+#: classes/views/mngl-boards/display.php:106
+#, php-format
+msgid "Show all %d comments"
+msgstr "Pokaż wszystkie (%d) komentarze"
+
+#: classes/views/mngl-boards/display.php:143
+msgid "Write a comment."
+msgstr "Napisz komentarz"
+
+#: classes/views/mngl-boards/display.php:156
+msgid "Show Older Posts"
+msgstr "Pokaż starsze wpisy"
+
+#: classes/views/mngl-boards/private.php:1
+#, php-format
+msgid "%1$s's profile is only visible to %2$s friends."
+msgstr "Profil użytkownika %1$s jest widoczny tylko dla znajomych %2$s."
+
+#: classes/views/mngl-friends/add_button.php:1
+#: classes/views/mngl-friends/friend_requested.php:1
+msgid "Friendship Requested"
+msgstr "Prośba o dodanie do listy znajomych"
+
+#: classes/views/mngl-friends/add_button.php:1
+msgid "Add as a Friend"
+msgstr "Dodaj jako Znajomego"
+
+#: classes/views/mngl-friends/already_friend.php:1
+msgid "Friend"
+msgstr "Znajomy"
+
+#: classes/views/mngl-friends/list.php:4
+#, php-format
+msgid "%s's Friends"
+msgstr "Znajomi użytkownika %s"
+
+#: classes/views/mngl-friends/list.php:13
+#: classes/views/mngl-profiles/directory.php:7
+msgid "Previous Page"
+msgstr "Poprzednia strona"
+
+#: classes/views/mngl-friends/list.php:45
+#: classes/views/mngl-profiles/directory.php:30
+msgid "Next Page"
+msgstr "Następna strona"
+
+#: classes/views/mngl-friends/me.php:2
+msgid "That's You!"
+msgstr "To Ty!"
+
+#: classes/views/mngl-friends/me.php:2
+msgid "Edit"
+msgstr "Edytuj"
+
+#: classes/views/mngl-friends/no_friends_found.php:1
+msgid "Apparently you have no friends ... boo hoo :("
+msgstr "W tej chwili nie masz żadnych znajomych... buuuuu :("
+
+#: classes/views/mngl-friends/requests.php:14
+#, php-format
+msgid "%s wants to be your friend."
+msgstr "%s chce być twoim znajomym."
+
+#: classes/views/mngl-friends/requests.php:14
+msgid "Accept"
+msgstr "Akceptuj"
+
+#: classes/views/mngl-friends/requests.php:14
+msgid "Ignore"
+msgstr "Odrzuć"
+
+#: classes/views/mngl-friends/requests.php:22
+msgid "You don't currently have any friend requests."
+msgstr "W tej chwili nie masz żadnych próśb oczekujących na akceptację."
+
+#: classes/views/mngl-options/form.php:2
+msgid "Mingle: Options"
+msgstr "Mingle: Opcje"
+
+#: classes/views/mngl-options/form.php:9
+msgid "Mingle Pages"
+msgstr "Strony Mingle"
+
+#: classes/views/mngl-options/form.php:10
+#, php-format
+msgid "Before you can get going with Mingle, you must configure where Mingle pages on your website will appear. You'll want to %1$screate a new page%2$s for each of these pages that mingle needs to work. You should give your page a title and optionally put some content into the page ... just know that once you set the page up here, the page's content will not display."
+msgstr "Zanim zaczniesz korzystać z Mingle, musisz ustawić strony, z jakich wtyczka będzie korzystać. Jeśli chcesz, możesz %1$sutworzyć nową stronę%2$s dla każdej, z jakiej Mingle musi korzystać. Musisz nadać każdej stronie tytuł ... pamiętaj tylko, że w momencie kiedy dodasz ją tutaj, jej zawartość nie będzie się już wyświetlać."
+
+#: classes/views/mngl-options/form.php:13
+msgid "Profile Page"
+msgstr "Strona profilowa"
+
+#: classes/views/mngl-options/form.php:19
+msgid "Profile Edit Page"
+msgstr "Strona edycji profilu"
+
+#: classes/views/mngl-options/form.php:25
+msgid "Friends Page"
+msgstr "Strona z listą znajomych"
+
+#: classes/views/mngl-options/form.php:31
+msgid "Friend Requests Page"
+msgstr "Strona z prośbami o akceptację"
+
+#: classes/views/mngl-options/form.php:37
+msgid "Activity Page"
+msgstr "Strona aktywności"
+
+#: classes/views/mngl-options/form.php:43
+msgid "Directory Page"
+msgstr "Lista użytkowników"
+
+#: classes/views/mngl-options/form.php:49
+msgid "Login Page"
+msgstr "Strona logowania"
+
+#: classes/views/mngl-options/form.php:55
+msgid "Signup Page"
+msgstr "Strona rejestracji"
+
+#: classes/views/mngl-options/form.php:62
+msgid "Profile Options"
+msgstr "Ustawienia profilu"
+
+#: classes/views/mngl-options/form.php:63
+msgid "Profile Name"
+msgstr "Imię profilu"
+
+#: classes/views/mngl-options/form.php:65
+msgid "Users will use this as their Profile Names"
+msgstr "Użytkownicy będą używać tego, jako nazwy swoich profili"
+
+#: classes/views/mngl-options/form.php:66
+msgid "This is how your users will identify themselves on their profiles, posts, comments and activities. <strong>Note:</strong> If you select <code>Full Name</code> the users' <code>Screen Names</code> will still be used until the they add their name."
+msgstr "W taki sposób użytkownik będzie się identyfikował w swoim profilu, wpisach, komentarzach i aktywnościach. <strong>Uwaga:</strong> Jeśli wybierzesz <code>Pełne imię i nazwisko</code> wybrana przez użytkownika <code>Nazwa użytkownika</code> nadal będzie wyświetlana, dopóki nie wprowadzi on swoich danych."
+
+#: classes/views/mngl-options/form.php:68
+#: classes/views/mngl-options/form.php:72
+msgid "Default Friend"
+msgstr "Domyślny znajomy"
+
+#: classes/views/mngl-options/form.php:78
+msgid "This User will be added as a friend to all new signups."
+msgstr "Ten użytkownik będzie automatycznie dodany jako znajomy wszystkich nowo rejestrujących się."
+
+#: classes/views/mngl-options/form.php:81
+msgid "Field Display Options"
+msgstr "Opcje pól dodatkowych"
+
+#: classes/views/mngl-options/form.php:83
+msgid "Configure the fields you'd like your users to see, and if they will be able to display them on their profiles. <code>Public</code> indicates that the field will be available to the users and that the value they enter into it will show up on their public profiles. <code>Private</code> indicates that the field will be available to the users but the value they enter into it will not show up on their public profiles. <code>Hidden</code> indicates that this field won't be visible to the users or on their public profiles."
+msgstr "Wybierz pola, które chcesz aby użytkownik widział i mógł wypełnić w swoim profilu. <code>Publiczne</code> wskazuje na to, że dane pole będzie dostępne dla użytkownika, a dane jakie w nim wprowadzi będą widoczne w jego profilu. <code>Prywatne</code> wskazuje na to, że dane pole będzie dostępne dla użytkownika, ale dane jakie w nim wprowadzi nie będą widoczne w jego profilu. <code>Ukryte</code> wskazuje na to, że dane pole nie będzie widoczne ani dostępne w ustawieniach profilu."
+
+#: classes/views/mngl-options/form.php:86
+msgid "Show Website Field"
+msgstr "Pokaż pole \"strona www\""
+
+#: classes/views/mngl-options/form.php:92
+msgid "Show Location Field"
+msgstr "Pokaż pole \"miasto\""
+
+#: classes/views/mngl-options/form.php:98
+msgid "Show Sex Field"
+msgstr "Pokaż pole \"płeć\""
+
+#: classes/views/mngl-options/form.php:104
+msgid "Show Bio Field"
+msgstr "Pokaż pole \"kilka słów o mnie\""
+
+#: classes/views/mngl-options/form.php:113
+msgid "Update Options"
+msgstr "Aktualizuj opcje"
+
+#: classes/views/mngl-options/options_saved.php:1
+msgid "Options saved."
+msgstr "Opcje zostały zapisane."
+
+#: classes/views/mngl-profiles/edit.php:6
+msgid "Information"
+msgstr "Informacje"
+
+#: classes/views/mngl-profiles/edit.php:9
+#: classes/views/shared/signup_form.php:5
+msgid "First Name"
+msgstr "Imię"
+
+#: classes/views/mngl-profiles/edit.php:13
+#: classes/views/shared/signup_form.php:9
+msgid "Last Name"
+msgstr "Nazwisko"
+
+#: classes/views/mngl-profiles/edit.php:17
+msgid "Email"
+msgstr "Email"
+
+#: classes/views/mngl-profiles/edit.php:23
+msgid "Bio"
+msgstr "Kilka słów o mnie"
+
+#: classes/views/mngl-profiles/edit.php:23
+#: classes/views/mngl-profiles/edit.php:29
+#: classes/views/mngl-profiles/edit.php:35
+#: classes/views/mngl-profiles/edit.php:41
+msgid "private"
+msgstr "prywatne"
+
+#: classes/views/mngl-profiles/edit.php:29
+msgid "URL"
+msgstr "URL"
+
+#: classes/views/mngl-profiles/edit.php:35
+#: classes/views/mngl-profiles/profile.php:27
+msgid "Location"
+msgstr "Miasto"
+
+#: classes/views/mngl-profiles/edit.php:41
+#: classes/views/mngl-profiles/profile.php:24
+msgid "Sex"
+msgstr "Płeć"
+
+#: classes/views/mngl-profiles/edit.php:46
+#: classes/views/shared/login_form.php:5
+#: classes/views/shared/login_widget.php:18
+msgid "Password"
+msgstr "Hasło"
+
+#: classes/views/mngl-profiles/edit.php:50
+msgid "Password Confirmation"
+msgstr "Potwierdzenie hasła"
+
+#: classes/views/mngl-profiles/edit.php:54
+msgid "Avatar"
+msgstr "Avatar"
+
+#: classes/views/mngl-profiles/edit.php:61
+msgid "Privacy"
+msgstr "Prywatność"
+
+#: classes/views/mngl-profiles/edit.php:63
+msgid "Notification Settings"
+msgstr "Ustawienia powiadomień"
+
+#: classes/views/mngl-profiles/edit.php:71
+#, php-format
+msgid "Don't Send Me \"%s\" Notifications"
+msgstr "Nie wysyłaj mi \"%s\" Powiadomień"
+
+#: classes/views/mngl-profiles/edit.php:78
+msgid "Update"
+msgstr "Aktualizuj"
+
+#: classes/views/mngl-profiles/edit_avatar.php:3
+msgid "delete"
+msgstr "usuń"
+
+#: classes/views/mngl-profiles/profile.php:30
+msgid "Website"
+msgstr "Strona www"
+
+#: classes/views/mngl-profiles/profile.php:34
+#: classes/views/shared/login_widget.php:10
+msgid "Friends"
+msgstr "Znajomi"
+
+#: classes/views/mngl-profiles/profile_saved.php:1
+msgid "Your Profile has been saved."
+msgstr "Twój profil został zapisany."
+
+#: classes/views/shared/already_logged_in.php:1
+#, php-format
+msgid "You're already logged in. %1$sLogout.%2$s"
+msgstr "Jesteś już zalogowany.  %1$sWyloguj się.%2$s"
+
+#: classes/views/shared/errors.php:11
+msgid "ERROR"
+msgstr "BŁĄD"
+
+#: classes/views/shared/login_form.php:3
+#: classes/views/shared/login_widget.php:19
+#: classes/views/shared/signup_form.php:16
+msgid "Username"
+msgstr "Nazwa użytkownika"
+
+#: classes/views/shared/login_form.php:7
+#: classes/views/shared/login_widget.php:23
+msgid "Remember Me"
+msgstr "Pamiętaj mnie"
+
+#: classes/views/shared/login_form.php:10
+#: classes/views/shared/login_widget.php:26
+msgid "Log In"
+msgstr "Zaloguj mnie"
+
+#: classes/views/shared/login_form.php:19
+#: classes/views/shared/login_widget.php:34
+msgid "Register"
+msgstr "Zarejestruj się"
+
+#: classes/views/shared/login_form.php:23
+#: classes/views/shared/login_widget.php:38
+msgid "Lost Password?"
+msgstr "Zapomniałeś hasła?"
+
+#: classes/views/shared/login_widget.php:7
+msgid "Activity"
+msgstr "Aktywność"
+
+#: classes/views/shared/login_widget.php:8
+msgid "Profile"
+msgstr "Profil"
+
+#: classes/views/shared/login_widget.php:9
+msgid "Settings"
+msgstr "Ustawienia"
+
+#: classes/views/shared/login_widget.php:11
+msgid "Friend Requests"
+msgstr "Zaproś znajomych"
+
+#: classes/views/shared/login_widget.php:13
+msgid "Logout"
+msgstr "Wyloguj się"
+
+#: classes/views/shared/login_widget.php:16
+#, php-format
+msgid "Login to connect with Others on %s"
+msgstr "Zaloguj się, aby mieć kontakt z innymi w %s"
+
+#: classes/views/shared/login_widget.php:41
+msgid "Directory"
+msgstr "Lista użytkowników"
+
+#: classes/views/shared/must_configure.php:1
+#, php-format
+msgid "Mingle must be configured. Go to the %s to setup your new social network!"
+msgstr "Wtyczka Mingle musi zostać skonfigurowana. Idź do %s, aby skonfigurować swój serwis społecznościowy!"
+
+#: classes/views/shared/must_configure.php:1
+msgid "Mingle Admin Page"
+msgstr "Mingle - Strona Administracyjna"
+
+#: classes/views/shared/signup_form.php:20
+msgid "E-mail"
+msgstr "E-mail"
+
+#: classes/views/shared/signup_form.php:24
+msgid "A password will be e-mailed to you."
+msgstr "Hasło zostanie do Ciebie wysłane."
+
+#: classes/views/shared/signup_form.php:26
+msgid "Sign Up"
+msgstr "Zarejestruj się"
+
+#: classes/views/shared/unauthorized.php:16
+#, php-format
+msgid "You're unauthorized to view this page. Why don't you %s and try again."
+msgstr "Nie masz uprawnień, aby oglądać tę stronę. %s i spróbuj jeszcze raz."
+
+#: classes/views/shared/unauthorized.php:16
+msgid "Login"
+msgstr "Login"
+
+#: classes/views/shared/unauthorized.php:18
+msgid "Don't have a Login?"
+msgstr "Nie masz jeszcze konta?"
+
+#: classes/views/shared/unauthorized.php:18
+msgid "Register for an Account."
+msgstr "Utwórz nowe konto w naszym serwisie."
+
+#: classes/views/shared/user_grid.php:3
+msgid "Show All"
+msgstr "Pokaż wszystkich"
+
+#: classes/widgets/MnglLoginWidget.php:7
+msgid "Mingle Login"
+msgstr "Mingle Logowanie"
+
+#: classes/widgets/MnglLoginWidget.php:38
+#: classes/widgets/MnglUsersWidget.php:56
+msgid "Title"
+msgstr "Title"
+
+#: classes/widgets/MnglUsersWidget.php:7
+msgid "Mingle Users Grid"
+msgstr "Mingle Users Grid"
+
+#: classes/widgets/MnglUsersWidget.php:21
+msgid "Users"
+msgstr "użytk."
+
+#: classes/widgets/MnglUsersWidget.php:51
+msgid "Mingle Users"
+msgstr "Mingle użytkownicy"
+
+#: classes/widgets/MnglUsersWidget.php:57
+msgid "# of Grid Columns"
+msgstr "# kolumn"
+
+#: classes/widgets/MnglUsersWidget.php:58
+msgid "# of Grid Rows"
+msgstr "# linijek"
+
+#: classes/widgets/MnglUsersWidget.php:60
+msgid "Grid Type"
+msgstr "Grid Type"
+
+#: classes/widgets/MnglUsersWidget.php:62
+msgid "Random Mingle Users"
+msgstr "Są wśród nas"
+
+#: classes/widgets/MnglUsersWidget.php:63
+msgid "Recent Mingle Users"
+msgstr "Ostatnio dołączyli użytkownicy"
+
+#: js/mingle.js.php:51
+msgid "Are you sure you want to delete this post?"
+msgstr "Jesteś pewien, że chcesz usunąć ten wpis?"
+
+#: js/mingle.js.php:66
+msgid "Are you sure you want to delete this comment?"
+msgstr "Jesteś pewien, że chcesz usunąć ten komentarz?"
+
+#: js/mingle.js.php:102
+msgid "Are you sure you want to delete this friend?"
+msgstr "Jesteś pewien, że chcesz usunąć tego znajomego?"
+
+#: js/mingle.js.php:141
+msgid "Are you sure you want to delete your avatar?"
+msgstr "Jesteś pewien, że chcesz usunąć ten avatar?"
+
+#. Plugin URI of an extension
+msgid "http://blairwilliams.com/mingle"
+msgstr "http://blairwilliams.com/mingle"
+
+#. Description of an extension
+msgid "The simplest way to turn your standard WordPress website with a standard WordPress theme into a Social Network."
+msgstr "Najprostrzy sposób, aby zmienić standardowy blog wordpressowy ze standardową skórką w prawdziwy serwis społecznościowy."
+
+#. Author of an extension
+msgid "Blair Williams"
+msgstr "Blair Williams"
+
+#. Author URI of an extension
+msgid "http://blairwilliams.com"
+msgstr "http://blairwilliams.com"
+

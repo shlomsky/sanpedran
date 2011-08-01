@@ -1,0 +1,52 @@
+﻿.abadmin{font-family:Arial, Helvetica, sans-serif;}
+.mainlinks{color:#444444;display:inline;font-size:11pt;}
+.mainlinks a{border-bottom-color:#444444;border-bottom-style:solid;border-bottom-width:thin;color:#444444;}
+.runnow a{color:#444444;display:inline;float:right;font-size:10pt;text-align:right;}
+.feedswrap{
+border: 1px solid #ccc;
+margin: 15px 5%;
+padding: 1em;
+background: url(img/bg.png);
+background-repeat: repeat-y;
+background-color: #EEF0F4;
+position: inherit;
+display: block;
+width: 90%;
+}
+.mainlinks a:hover{color:#405680;}
+.rssfeed{
+	background-color:#F90;
+	color:#FFFFFF;
+	display:inline;
+	font-size:9pt;
+	font-weight:bold;
+}
+.googleblogsearch{background-color: #F8DFA8;color: #000000;display: inline;font-size: 9pt;font-weight: bold;}
+.technoratisearch{background-color:#566D36;color:#FFFFFF;display:inline;font-size:9pt;font-weight:bold;}
+.blogdiggersearch{background-color:#934A4A;color:#FFFFFF;display:inline;font-size:9pt;font-weight:bold;}
+.blogpulsesearch{background-color:#143D9C;color:#FFFFFF;display:inline;font-size:9pt;font-weight:bold;}
+.msnspacessearch{background-color: #0066A7;color: #FFFFFF;display: inline;font-size: 9pt;font-weight: bold;}
+.yahoonewssearch{background-color: #820027;color: #FFFFFF;display: inline;font-size: 9pt;font-weight: bold;}
+.flickrtagsearch{background-color: #0063DC;color: #FFFFFF;display: inline;font-size: 9pt;font-weight: bold;}
+.youtubetagsearch{background-color: #C51C1B;color: #FFFFFF;display: inline;font-size: 9pt;font-weight: bold;}
+.yahoovideosearch{background-color: #3E3D3D;color: #FFFFFF;display: inline;font-size: 9pt;font-weight: bold;}
+.feedheader{
+color: #444444;
+font-size: 12pt;
+font-weight: bold;
+overflow: hidden;
+text-indent: 75px;
+background: url(img/rssb.png);
+background-repeat: no-repeat;
+height: 75px;
+}
+.feedurl {
+color: #808080;
+font-size: 8pt;
+overflow: hidden;
+text-indent: 75px;
+font-weight: normal;
+}
+.editfeed {
+text-indent: 73px;
+}
